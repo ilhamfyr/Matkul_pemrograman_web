@@ -1,0 +1,32 @@
+body {
+  background-color: chocolate;
+}
+
+.top-secction, img{
+    border-radius: 75%;
+    background-color: black;
+    max-width: 400px;
+}
+.top-secction,p{
+    padding-top: 50px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.list{
+      padding-top: 50px;
+      padding-right: 200px;
+      padding-bottom: 50px;
+      padding-left: 200px;
+}
+
+.space{
+  padding-left: 500px;
+}
